@@ -7,9 +7,8 @@
 In 1920, this building housed several businesses: tbd
 
 - Built: 1893
-- Remodeled: c.xx
+- Remodeled: tbd
 - Architect: tbd
-- Library link: xxx
 
 
 ## SketchUp Model
@@ -21,7 +20,7 @@ In 1920, this building housed several businesses: tbd
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-oshaughnessy/blob/master/oshaugnhessy-1920.jpg)
 
 ## Design Decisions (1920 Version)
-- xxx
+- tbd
 
 
 ### Online references & photographs
